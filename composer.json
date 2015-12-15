@@ -11,7 +11,7 @@
     "require": {
         "php": ">=5.4",
         "symfony/filesystem": "~2.3",
-        "symfony/process": "~2.3",
+        "symfony/process": "~3.0",
         "guzzlehttp/guzzle": "~4.1",
         "guzzlehttp/streams": "~1.3"
     },
